@@ -382,7 +382,7 @@ ul.contact li a.icon-rss:before
 #logo
 {
 	position: absolute;
-	top: 1.5em;
+	top: 0.0em;
 	left: 0;
 	width: 100%;
 }
@@ -621,7 +621,7 @@ ul.contact li a.icon-rss:before
 {
 	overflow: hidden;
 	padding: 6em 0em;
-	background: #383838;
+	background: #000;
 	text-align: center;
 }
 
