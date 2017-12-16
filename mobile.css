@@ -365,14 +365,14 @@ ul.contact li a.icon-rss:before
 	
 #header-wrapper
 {
-	padding: 2em 0em;
+	padding: 1em 0em;
 	background: #FFF;
 }
 
 #header
 {
 	position: relative;
-	height: 9em;
+	height: 10%;
 }
 
 /*********************************************************************************/
@@ -381,7 +381,7 @@ ul.contact li a.icon-rss:before
 
 #logo
 {
-	position: absolute;
+	position: relative;
 	top: -1.0em;
 	left: 0;
 	width: 250%;
@@ -420,9 +420,9 @@ ul.contact li a.icon-rss:before
 
 #menu
 {
-	position: absolute;
+	position: relative;
 	right: 0;
-	top: 4.5em;
+	top: 0em;
 }
 
 #menu ul
