@@ -384,7 +384,12 @@ ul.contact li a.icon-rss:before
 	position: relative;
 	top: -1.0em;
 	left: 0;
-	width: 250%;
+	width: 100%;
+}
+
+#logo img
+{
+	width: 100%;
 }
 
 #logo h1

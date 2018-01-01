@@ -387,6 +387,11 @@ ul.contact li a.icon-rss:before
 	width: 100%;
 }
 
+#logo img
+{
+	width: 25%;
+}
+
 #logo h1
 {
 	display: inline-block;
